@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Kong Hero/Scene/MainMenu.unity
+  isLoaded: 1
+  isActive: 1
